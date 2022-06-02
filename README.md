@@ -1,6 +1,5 @@
-## Hola     :tw-1f44b:
-
-##Bienvenidos a mis proyectos :tw-1f600:!
+## Hola!
+##Bienvenidos a mis proyectos!
 
 ##Mi nombre es Adrián González 
 
