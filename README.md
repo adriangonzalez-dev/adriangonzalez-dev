@@ -1,7 +1,7 @@
 ## Hola!
-##Bienvenidos a mis proyectos!
+## Bienvenidos a mis proyectos!
 
-##Mi nombre es Adrián González 
+## Mi nombre es Adrián González 
 
 #### Todos mis repositorios se van actualizando a medida que voy aprendiendo nuevas tecnologías!
 
