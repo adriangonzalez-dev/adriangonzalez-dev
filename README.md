@@ -13,7 +13,7 @@
 
 <h3 align="left">Me puedes encontrar en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adrian-edgar-gonzalez-condori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-edgar-gonzalez-condori" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adrian-gonzalez-condori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-edgar-gonzalez-condori" height="30" width="40" /></a>
 <a href="https://fb.com/adrian.gonzalez.731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrian.gonzalez.731" height="30" width="40" /></a>
 <a href="https://instagram.com/adri_ramone_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adri_ramone_90" height="30" width="40" /></a>
 </p>
